@@ -1,0 +1,9 @@
+{
+  "name": "@walterwhite8x/myapp",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz for my app",
+  "main": "index.js",
+  "author": "@walterwhite8x",
+  "repository": "https://github.com/walterwhite8x/myapp.git",
+  "license": "ISC"
+}
